@@ -27,7 +27,6 @@ header {
     max-width: 100%;
     background-color: #ba5257;
     position: relative;
-    margin-top: -24px;
 }
 
 header .logo {
@@ -42,7 +41,7 @@ header .logo {
 header .info {
     position: absolute;
     right: 40px;
-    top: 3px;
+    top: 0;
     font-size: 18px;
     font-weight: 200;
     letter-spacing: 3px;
@@ -168,7 +167,7 @@ header .info {
 .banner-right .logo {
     width: 80%;
     margin-left: 19px;
-    margin-top: 24px;
+    margin-top: 26px;
 }
 
 .logo:hover {
