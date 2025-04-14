@@ -1,0 +1,11 @@
+#menu-container{
+    margin-top: 4px !important;
+}
+
+.active{
+    opacity: 0.6;
+}
+
+.content-section{
+    margin-bottom: -30px;
+}
