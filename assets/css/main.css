@@ -170,6 +170,10 @@ header .info {
     margin-top: 26px;
 }
 
+.banner-right .logo:hover{
+    opacity: 0.6;
+}
+
 #banner {
     width: 100%;
     text-align: center;
